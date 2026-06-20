@@ -29,9 +29,10 @@ HTML5, CSS3, CSS Grid, Flexbox, Media Queries, CSS Animations
 
 ## 📂 Project Structure
 NayePankh-Foundation/
+
 ├── index.html
+
 ├── style.css
-└── README.md
 
 ---
 
